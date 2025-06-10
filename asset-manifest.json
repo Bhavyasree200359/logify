@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/logify/static/css/main.2515c542.css",
-    "main.js": "/logify/static/js/main.c5f614f1.js",
-    "static/media/profile-picture.png": "/logify/static/media/profile-picture.0c420eea4b39b983dc57.png",
-    "static/media/volume.png": "/logify/static/media/volume.793a0b2ca7384f262f5f.png",
-    "static/media/malayalam-letter-lla-icon-lg.png": "/logify/static/media/malayalam-letter-lla-icon-lg.0b819f6d0677909e4363.png",
-    "static/media/letter-b.png": "/logify/static/media/letter-b.7238697eb3574719b15f.png",
-    "static/media/a.png": "/logify/static/media/a.9d8b9d6b19a99c4fb9c3.png",
-    "static/media/letter-h.png": "/logify/static/media/letter-h.46aa319869cd575a4f36.png",
-    "static/media/letter-d.png": "/logify/static/media/letter-d.2b054895fd3004913b62.png",
-    "static/media/japanese-alphabet.png": "/logify/static/media/japanese-alphabet.38a7ed06ac3414081929.png",
-    "static/media/el.png": "/logify/static/media/el.00eae9995805bfe9b8fa.png",
-    "index.html": "/logify/index.html",
-    "static/media/letter-hindi-a.svg": "/logify/static/media/letter-hindi-a.b6707a8d022c34262f5d743bf224d533.svg",
-    "main.2515c542.css.map": "/logify/static/css/main.2515c542.css.map",
-    "main.c5f614f1.js.map": "/logify/static/js/main.c5f614f1.js.map"
+    "main.css": "./static/css/main.2515c542.css",
+    "main.js": "./static/js/main.938e8758.js",
+    "static/media/profile-picture.png": "./static/media/profile-picture.0c420eea4b39b983dc57.png",
+    "static/media/volume.png": "./static/media/volume.793a0b2ca7384f262f5f.png",
+    "static/media/malayalam-letter-lla-icon-lg.png": "./static/media/malayalam-letter-lla-icon-lg.0b819f6d0677909e4363.png",
+    "static/media/letter-b.png": "./static/media/letter-b.7238697eb3574719b15f.png",
+    "static/media/a.png": "./static/media/a.9d8b9d6b19a99c4fb9c3.png",
+    "static/media/letter-h.png": "./static/media/letter-h.46aa319869cd575a4f36.png",
+    "static/media/letter-d.png": "./static/media/letter-d.2b054895fd3004913b62.png",
+    "static/media/japanese-alphabet.png": "./static/media/japanese-alphabet.38a7ed06ac3414081929.png",
+    "static/media/el.png": "./static/media/el.00eae9995805bfe9b8fa.png",
+    "index.html": "./index.html",
+    "static/media/letter-hindi-a.svg": "./static/media/letter-hindi-a.b6707a8d022c34262f5d743bf224d533.svg",
+    "main.2515c542.css.map": "./static/css/main.2515c542.css.map",
+    "main.938e8758.js.map": "./static/js/main.938e8758.js.map"
   },
   "entrypoints": [
     "static/css/main.2515c542.css",
-    "static/js/main.c5f614f1.js"
+    "static/js/main.938e8758.js"
   ]
 }
