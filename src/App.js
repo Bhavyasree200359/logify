@@ -1,5 +1,4 @@
-import React, {useEffect} from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, BrowserRouter } from 'react-router-dom';
 import LandingPage from './components/landingPage';  // make sure path and file name are correct
 import SignUpPage from './components/signUpPage';
 import LoginPage from './components/loginPage';
@@ -9,6 +8,7 @@ import AgentConfig from './components/agentConfig';
 
 function App() {
   return (
+    <BrowserRouter basename="/logify">
     <Router>
       <Routes>
         <Route path="/" element={<LandingPage />} />  
@@ -19,6 +19,7 @@ function App() {
         <Route path="/dashboard/agent" element={<AgentConfig />} />
       </Routes>
     </Router>
+    </BrowserRouter>
   );
 }
 
